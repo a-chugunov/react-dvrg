@@ -1,5 +1,14 @@
 tasks:
-  - init: yarn install && yarn run build
-    command: yarn run start
-  - init: cd example
-    command: npm run start
+  - init: >
+      yarn install &&
+      yarn run build &&
+      gp sync-done build
+    command: >
+      yarn run start
+  - init: >
+      cd example &&
+      yarn install &&
+      yarn run build
+    command: >
+      gp sync-await build &&
+      npm run start

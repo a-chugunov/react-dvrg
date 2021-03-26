@@ -48,3 +48,9 @@ Great projects that inspired me to create dvrg.io.
 - [@dicebear/avatars](https://github.com/dicebear/dicebear)
 - [Paper.js](https://github.com/paperjs/paper.js)
 - [Jdenticon](https://github.com/dmester/jdenticon)
+- [urpflanze](https://github.com/urpflanze-org/urpflanze)
+- [drawingbots.net](https://drawingbots.net/knowledge/tools/svg-generator)
+
+
+Articles:
+- [Making of paper cut buttefly](https://julienleonard.com/making-of-paper-cut-butterfly.html)
