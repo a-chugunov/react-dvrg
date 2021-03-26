@@ -1,10 +1,10 @@
 import React from 'react'
 
-import { ExampleComponent } from 'react-dvrg'
+import { Dvrg } from 'react-dvrg'
 import 'react-dvrg/dist/index.css'
 
 const App = () => {
-  return <ExampleComponent text="Create React Library Example 😄" />
+  return <Dvrg seed='Create Library Example' />
 }
 
 export default App

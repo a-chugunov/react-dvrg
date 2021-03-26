@@ -1,7 +1,7 @@
-import { ExampleComponent } from '.'
+import { Dvrg } from '.'
 
 describe('ExampleComponent', () => {
   it('is truthy', () => {
-    expect(ExampleComponent).toBeTruthy()
+    expect(Dvrg).toBeTruthy()
   })
 })

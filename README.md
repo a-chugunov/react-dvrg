@@ -1,3 +1,5 @@
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/a-chugunov/react-dvrg)
+
 # react-dvrg
 
 > react implementation of dvrg.io - identicon generation
@@ -28,3 +30,21 @@ class Example extends Component {
 ## License
 
 MIT © [a-chugunov](https://github.com/a-chugunov)
+
+
+## Issues
+If you encounter any problems, please [file an issue](https://github.com/a-chugunov/dvrgicons/issues) along with a detailed description.
+
+
+## Acknowledgments
+Great projects that inspired me to create dvrg.io.
+
+- [@metamask/jazzicon](https://github.com/MetaMask/jazzicon#readme)
+- [tinygraphs](https://github.com/taironas/tinygraphs)
+- [triangles](https://github.com/msurguy/triangles)
+- [mineral-ui](https://github.com/mineral-ui/mineral-ui)
+- [turtlecoin identicon generator](https://github.com/turtlecoin/paper-turtle)
+- [stellar-identicon-py](https://github.com/Lobstrco/stellar-identicon-py)
+- [@dicebear/avatars](https://github.com/dicebear/dicebear)
+- [Paper.js](https://github.com/paperjs/paper.js)
+- [Jdenticon](https://github.com/dmester/jdenticon)
