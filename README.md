@@ -50,7 +50,7 @@ Great projects that inspired me to create dvrg.io.
 - [Jdenticon](https://github.com/dmester/jdenticon)
 - [urpflanze](https://github.com/urpflanze-org/urpflanze)
 - [drawingbots.net](https://drawingbots.net/knowledge/tools/svg-generator)
-
+- [karthik/wesanderson](https://github.com/karthik/wesanderson)
 
 Articles:
 - [Making of paper cut buttefly](https://julienleonard.com/making-of-paper-cut-butterfly.html)
